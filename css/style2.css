@@ -2,7 +2,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    background-image: url(/images/MUNNAR.jpg);
+    background-image: url(../images/MUNNAR.jpg);
     background-size: cover;
     background-position: absolute;
     background-repeat: no-repeat;
